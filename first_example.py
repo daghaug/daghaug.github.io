@@ -1,5 +1,5 @@
 from llama_cpp import Llama
-61;7603;1c
+
 llm = Llama(
       model_path="/itf-fi-ml/shared/ml-models/NoraLLm/normistral-7b-warm.Q8_0.gguf", 
       n_threads=8,
